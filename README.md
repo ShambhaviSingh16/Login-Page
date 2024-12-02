@@ -36,16 +36,18 @@
 - GitHub: @ShambhaviSingh16
 
 
-## How to Use:
-1. Clone this repository to your local machine.
-2. Open `index.html` in your browser.
-3. Interact with the form by entering a username and password. The login button will be enabled once both fields are filled, and an animation will play when the button is hovered.
-
-```bash
-git clone https://github.com/your-username/login-form.git
-cd login-form
-open index.html
+## How to Use the Project:
+1. **Clone the Repository:**
 ```
+bash
+git clone https://github.com/your-username/login-form.git
+```
+2. **Navigate to the Project Folder:**
+```
+bash
+cd login-form
+```
+3. Open the index.html file in any web browser to see the form in action.
 
 ## Contributions:
 Perfect for Anyone Looking to Add Fun Interactive Elements to Their Web Projects!
