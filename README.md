@@ -39,12 +39,10 @@
 ## How to Use the Project:
 1. **Clone the Repository:**
 ```
-bash
 git clone https://github.com/your-username/login-form.git
 ```
 2. **Navigate to the Project Folder:**
 ```
-bash
 cd login-form
 ```
 3. Open the index.html file in any web browser to see the form in action.
