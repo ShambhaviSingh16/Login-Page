@@ -51,7 +51,4 @@ cd login-form
 Perfect for Anyone Looking to Add Fun Interactive Elements to Their Web Projects!
 This project serves as both a learning resource for beginners and a template for web developers who want to add interactive, engaging elements to their forms. Whether you're learning front-end development or just looking for a stylish login page, this project is an excellent starting point.
 
-Feel free to fork this repository, make improvements, or simply enjoy the dynamic and engaging user interface! 
-
-
-
+Feel free to fork this repository, make improvements, or simply enjoy the dynamic and engaging user interface!!
